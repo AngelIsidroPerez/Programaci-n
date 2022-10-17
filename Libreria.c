@@ -11,4 +11,4 @@ void main(void) { //Es el punto de entrada al programa
   if (PRO >= 6) //Se utiliza para establece una condicion
     printf("Aprobado\n");
   system("Pause");
-} //Fin del programa6
+}
