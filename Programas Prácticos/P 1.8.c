@@ -4,7 +4,7 @@
 El programa, al recibir como datos el radio y la altura de un cilindro,
 ➥calcula su área y su volumen.
 RAD, ALT, VOL y ARE: variables de tipo real. */
-void main(void)
+int main()
 {
 float RAD, ALT, VOL, ARE;
 printf("Ingrese el radio y la altura del cilindro: ");
